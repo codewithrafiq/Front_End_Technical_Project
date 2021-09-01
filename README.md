@@ -1,6 +1,6 @@
 
 # [Md Rafiqul Islam](https://codewithrafiq.github.io/)
-# [My Youtube Chanels](https://www.youtube.com/c/CodeWithRafiq)
+# [My Youtube Channel](https://www.youtube.com/c/CodeWithRafiq)
 
 
 ## For Running this Project On Your Local Machine
@@ -29,7 +29,7 @@ npm start
 <img src="./screenshots/column.png" />
 
 
-## Filter By Any Fields
+## Filter by Any Fields
 <img src="./screenshots/filter.png" />
 
 
@@ -38,10 +38,10 @@ npm start
 
 
 
-## Click On Return Button
+## Click on Return Button
 <img src="./screenshots/return.png" />
 
 
-## Click On Book Button
+## Click on Book Button
 <img src="./screenshots/book.png" />
 
