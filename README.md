@@ -5,9 +5,9 @@
 
 ## For Running this Project On Your Local Machine
 ```
-git clone 
+git clone https://github.com/codewithrafiq/Front_End_Technical_Project.git
 
-cd 
+cd Front_End_Technical_Project
 
 npm i
 
